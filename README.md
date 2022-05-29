@@ -1,15 +1,6 @@
 # Counting in Dendi of Parakou multi-speaker speech dataset
 Jamiil Ali, Hamdiath Ali Toure
 
-# A)	the language (region, dialect, if any),
-Dendi language as it’s spoken in Parakou, Benin.
-# B)	the ISO code of the language 
-Iso code of Dendi language: ddn
-# C)	who collected the data?
-The audio is a multi-speaker recording from 2 volunteers: 
--	Ali Jamiil (male)
--	Ali Toure Hamdiath (female)
-# D)	 Info about its motivation, composition, collection process (where/how), source of prompts, recommended uses/applications, etc. 
 Jami and Hamdi created this dataset to digitalize the Dendi language for speech research purposes. It contains about 676 recordings of participants reading a script in Dendi as spoken in Parakou, one word at a time. Each example includes the audio files and the associated text. The recordings were performed in a quiet environment using the Lig-Aikuna app and iPhone voice recorder. The dataset is multi-speaker, containing recordings from 2 volunteers (male and female), where each volunteer contributed up to 338 recordings. Jami and Hamdi did the recording in 2022 in Cotonou, Littoral, Benin. The script’s source read from volunteers is text extracted from another existing teaching book about the Dendi language. The recommended use cases are the building of educational material for pupils. Keys applications are Machine learning and speech technology.   
 
 # CONTACT
