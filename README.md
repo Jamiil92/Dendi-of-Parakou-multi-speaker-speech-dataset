@@ -1,2 +1,3 @@
-# speech_dataset
+# Dendi of Parakou multi-speaker speech dataset
+
 This dataset was created for speech research purposes and contains about 676 recordings of participants reading a script in Dendi as spoken in Parakou, one sentence at a time. Each example includes the audio files and the associated text. The audio is high-quality and recorded in a quiet environment. The dataset is multi-speaker, containing recordings from 2 volunteers (male and female), where each volunteer contributed up to 338 recordings. The recordings were done in 2022 and took place in Cotonou in Benin. The recommended use cases are the building of educational material for pupils. Keys applications are Machine learning and speech technology.  
